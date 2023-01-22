@@ -148,7 +148,7 @@ urlpatterns = [
 
 
 ### Home Page:
-![Home Page](./home.png)
+![Home Page](./Home.png)
 
 ## Result:
 The program for implementing server side processing is implemented successfully.
